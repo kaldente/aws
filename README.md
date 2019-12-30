@@ -1,2 +1,2 @@
 # aws
-AWS testig
+AWS testing
